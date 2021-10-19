@@ -54,6 +54,24 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chsanjay920&show_icons=true&theme=ocean_dark" alt="chintala sanjay" />
+  
+  
+
+# 🗂️ Highlight Projects
+
+<a href="https://github.com/chsanjay920/Voice-Assistant-main-javaScript.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chsanjay920&repo=Voice-Assistant-main-javaScript&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="rocket" />
+</a>
+
+<a href="https://github.com/chsanjay920/rock-paper-scissors">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chsanjay920&repo=rock-paper-scissors&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="minmax" />
+</a>
+<br>
+<a href="https://github.com/chsanjay920/sudoku-solver">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chsanjay920&repo=sudoku-solver&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="minmax" />
+</a>
+
+
 
 
 
