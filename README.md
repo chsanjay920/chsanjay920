@@ -11,11 +11,27 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=chsanjay920.chsanjay920)
 
-<br />
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "chintala sanjay"
+        self.role = "Software Engineer"
+
+    def welcome(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+        
+me = SoftwareEngineer()
+me.welcome()
+```
+
+<br />
 hi, i'm [chintala sanjay](https://chintala-sanjay.vercel.app/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
 
   
 - 💼 any freelance work? do reach, [email](mailto:chsanjay920@gmail.com) :)
