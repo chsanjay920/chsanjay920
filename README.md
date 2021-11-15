@@ -55,30 +55,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chsanjay920&show_icons=true&theme=ocean_dark" alt="chintala sanjay" />
   
-  
+
+ 🗨 used languages :>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chsanjay920&layout=compact&theme=ocean_dark" alt="chintala sanjay" />
 
  🗂️ Highlight Projects
 
-<a href="https://github.com/chsanjay920/Voice-Assistant-main-javaScript.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chsanjay920&repo=Voice-Assistant-main-javaScript&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="rocket" />
-</a>_____
-
-  
-<a href="https://github.com/chsanjay920/Tic-Tac-Toe-AI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chsanjay920&repo=Tic-Tac-Toe-AI&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="minmax" />
-</a>
-<br>
-|<br>
-  <a href="https://github.com/chsanjay920/sudoku-solver">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chsanjay920&repo=sudoku-solver&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="backtracking" />
-  </a>
-  _____
-<a href="https://github.com/chsanjay920/rock-paper-scissors">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chsanjay920&repo=rock-paper-scissors&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="minmax" />
-</a>
-
-
-
-
-
+<br><img height="120" src="https://media.istockphoto.com/vectors/glowing-neon-line-tic-tac-toe-game-icon-isolated-on-black-background-vector-id1269850753?k=20&m=1269850753&s=170667a&w=0&h=9nc0EzT8TNFOAR7np_D2uew9Mw98Ywn8Fg-vWW5trVc=">
 
