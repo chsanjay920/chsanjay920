@@ -61,6 +61,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
  🗂️ Highlight Projects
 
-<br><img height="120" src="https://raw.githubusercontent.com/chsanjay920/Hosted-images/main/images/tic-tak-toe.jpg">
-<img height="120" src="https://raw.githubusercontent.com/chsanjay920/Hosted-images/main/images/sudokusolver.png">
+<br>
+<kbd><img height="120" width="120" src="https://raw.githubusercontent.com/chsanjay920/Hosted-images/main/images/tic-tak-toe.jpg"></kbd>    
+<kbd><img height="120" width="120" style=" border: 5px solid #555; " src="https://raw.githubusercontent.com/chsanjay920/Hosted-images/main/images/sudokusolver.png"></kbd>
 
