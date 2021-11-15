@@ -62,6 +62,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
  🗂️ Highlight Projects
 
 <br>
-<kbd><img height="120" width="120" src="https://raw.githubusercontent.com/chsanjay920/Hosted-images/main/images/tic-tak-toe.jpg"></kbd>    
-<kbd><img height="120" width="120" style=" border: 5px solid #555; " src="https://raw.githubusercontent.com/chsanjay920/Hosted-images/main/images/sudokusolver.png"></kbd>
+<kbd><a href="https://tic-tac-toe-by-sanjay.vercel.app/"><img height="120" width="120" src="https://raw.githubusercontent.com/chsanjay920/Hosted-images/main/images/tic-tak-toe.jpg"></a></kbd>    
+<kbd><a href="https://sudoku-solver-by-sanjay.vercel.app/"><img height="120" width="120" style=" border: 5px solid #555; " src="https://raw.githubusercontent.com/chsanjay920/Hosted-images/main/images/sudokusolver.png"></a></kbd>
 
