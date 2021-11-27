@@ -64,7 +64,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <summary><b>Github Streaks ☄️</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chsanjay920&hide_border=true" />
+  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=chsanjay920&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" ></p>
     
  
  🗂️ Highlight Projects
