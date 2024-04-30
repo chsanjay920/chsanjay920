@@ -1,11 +1,7 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 ![](https://visitor-badge.glitch.me/badge?page_id=chsanjay920.chsanjay920)
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 class SoftwareEngineer:
     def __init__(self):
         self.name = "chintala sanjay"
@@ -58,16 +54,4 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=chsanjay920&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" ></p>
     
  
- 🗂️ Highlight Projects
-    
-
-<br>
-<kbd><a href="https://tic-tac-toe-by-sanjay.vercel.app/"><img height="120" width="120" src="https://raw.githubusercontent.com/chsanjay920/Hosted-images/main/images/tic-tak-toe.jpg"></a></kbd>    
-<kbd><a href="https://sudoku-solver-by-sanjay.vercel.app/"><img height="120" width="120" style=" border: 5px solid #555; " src="https://raw.githubusercontent.com/chsanjay920/Hosted-images/main/images/sudokusolver.png"></a></kbd>
-<kbd><a href="https://voice-assistant-main-java-script.vercel.app/"><img height="120" width="120" style=" border: 5px solid #555; " src="https://raw.githubusercontent.com/chsanjay920/Hosted-images/main/images/voice.png"></a></kbd>
-    
- </br></br>
- 👾GitHub Extra Pins
-    <br><br/>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chsanjay920&repo=Voice-Assistant-main-javaScript)](https://voice-assistant-main-java-script.vercel.app/)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chsanjay920&repo=sudoku-solver)](https://voice-assistant-main-java-script.vercel.app/)
 
